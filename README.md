@@ -22,7 +22,6 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eueuG&layout=compact" />
 </a>
 
-## Status
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eueuG&theme=default)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=eueuG&theme=flat)](https://github.com/eueuG/github-profile-trophy)
